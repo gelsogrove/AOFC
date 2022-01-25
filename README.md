@@ -23,6 +23,10 @@ BRANCH
 git branch -R
 git checkout namebranch
 
+NEW BRANCH
+git checkout -b "NEW_BRANCH"
+
+
 MERGE
 git checkout develop
 git merge [NEW BRANCH]
