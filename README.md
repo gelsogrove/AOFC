@@ -20,5 +20,9 @@ DOWNLOAD
 git pull
 
 BRANCH
-git fetch (download)
-git branch
+git branch -R
+git checkout namebranch
+
+MERGE
+git checkout develop
+git merge [NEW BRANCH]
