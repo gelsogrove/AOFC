@@ -18,3 +18,7 @@ Git push
 
 DOWNLOAD 
 git pull
+
+BRANCH
+git fetch (download)
+git branch
